@@ -176,7 +176,7 @@ th{background:var(--surface-2);color:var(--primary)}
 
 .brand{display:flex;align-items:center;gap:12px;min-width:0}
 .brand img{
-  width:48px;height:48px;object-fit:cover;border-radius:12px;
+  width:100px;height:100px;object-fit:cover;border-radius:12px;
   border:1px solid var(--line);background:#fff;flex-shrink:0
 }
 .brand-text{min-width:0}
@@ -196,6 +196,6 @@ th{background:var(--surface-2);color:var(--primary)}
   justify-content:center;
 }
 @media (max-width:760px){
-  .brand img{width:42px;height:42px}
+  .brand img{width:72px;height:72px}
   .hero-logo{width:min(220px, 78%)}
 }
