@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Medical and Health Care Foundation//Memorial Lecture//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ratnakar-memorial-lecture-2026@medhealthcarefoundation.com
+DTSTAMP:20261117T000000Z
+DTSTART:20261119T093000Z
+DTEND:20261119T103000Z
+SUMMARY:6th Dr. (Prof.) K.S. Ratnakar Memorial Lecture
+DESCRIPTION:Thoracic Aortic Aneurysms. Presented by Dr. Pradeep Vaideeswar\
+ , Professor and Head\, Department of Pathology\, Seth G.S. Medical College
+  and KEM Hospital\, Mumbai. Hosted by the Medical and Health Care Foundati
+ on.
+LOCATION:The Auditorium\, 4th Floor\, Rainbow Children's Heart Institute\, 
+ Road No. 10\, Banjara Hills\, Hyderabad - 500 034
+END:VEVENT
+END:VCALENDAR
