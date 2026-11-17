@@ -5,7 +5,8 @@ This folder is ready for GitHub Pages.
 
 ## Included files
 - index.html (About Foundation)
-- tricon.html (Upcoming Events)
+- upcoming-events.html (Upcoming Events)
+- tricon.html (redirect to upcoming-events.html, kept for old links)
 - past-events.html
 - contact.html
 - styles.css
